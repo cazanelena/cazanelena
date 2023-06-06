@@ -16,13 +16,13 @@
 
 Here are some of the projects I've worked on:
 
-Project Name: Brief description of the project.
+<!-- Project Name: Brief description of the project.
 GitHub Repo: [Link to the GitHub repository]
 Live Demo: [If applicable, provide a link to the live demo]
 
 Project Name: Brief description of the project.
 GitHub Repo: [Link to the GitHub repository]
-Live Demo: [If applicable, provide a link to the live demo]
+Live Demo: [If applicable, provide a link to the live demo] -->
 
 
 Feel free to explore these projects and provide any feedback or suggestions. I'm always open to improving my skills and learning from others.
@@ -31,10 +31,10 @@ Feel free to explore these projects and provide any feedback or suggestions. I'm
 ⏭️  On July 1st, I will be joining the Athena Hackathon. More info [here](https://www.showcode.io/athena)
 
 ## Courses and Certifications
-👩🏻‍🎓 Harvard CS50x introduction to computer science
-👩🏻‍💻 Harvard CS50's Introduction to Programming with Python
-📚 freeCodeCamp - Responsive Web Design 
-📖 freeCodeCamp - JavaScript Algorithms and Data Structures
+👩🏻‍🎓 Harvard CS50x introduction to computer science   
+👩🏻‍💻 Harvard CS50's Introduction to Programming with Python   
+📚 freeCodeCamp - Responsive Web Design            
+📖 freeCodeCamp - JavaScript Algorithms and Data Structures     
 
 ## Read
 In my free time, I enjoy reading and expanding my knowledge. Here's a list of books I have read that are related to web development:
