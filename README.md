@@ -7,10 +7,10 @@
 
 ## Skills and Expertise
 
-🚀 Programming languages: JavaScript, Python, CSS and HTML.
-🔧 Frameworks and libraries: Bootstrap.
-🛠️ Tools and technologies: **Version control** - I have experience using version control systems like **Git**, proficiency in managing repositories, branching, merging code, and collaborating with other developers using tools like **GitHub**.
-💡 Other skills: Debugging, Continuous learning, Problem-solving, Collaboration and teamwork.
+🚀 Programming languages: JavaScript, Python, CSS and HTML.  
+🔧 Frameworks and libraries: Bootstrap.  
+🛠️ Tools and technologies: **Version control** - I have experience using version control systems like **Git**, proficiency in managing repositories, branching, merging code, and collaborating with other developers using tools like **GitHub**.  
+💡 Other skills: Debugging, Continuous learning, Problem-solving, Collaboration and teamwork.  
 
 ## Projects
 
