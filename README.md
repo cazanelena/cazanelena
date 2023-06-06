@@ -1,4 +1,4 @@
-![](image/profile-banner.jpg)
+![](new-banner.jpg)
 ## Hello, I'm Elena 👋 (she/her)
 
 <!-- Profile Banner -->
