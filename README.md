@@ -48,9 +48,9 @@ In my free time, I enjoy reading and expanding my knowledge. Here's a list of bo
 
 ## Contact Me
 
-✉️ Email: cazan.elena23@yahoo.com
-💼 [LinkedIn](https://www.linkedin.com/in/elena-cazan-bba317131/)
-🌐 [Website](https://cazanelena.github.io/Website-Project/)
+✉️ Email: cazan.elena23@yahoo.com   
+💼 [LinkedIn](https://www.linkedin.com/in/elena-cazan-bba317131/)   
+🌐 [Website](https://cazanelena.github.io/Website-Project/)  
 
 I'm open to collaboration, networking, and discussing exciting opportunities. Don't hesitate to reach out if you have any questions or just want to connect.
 
