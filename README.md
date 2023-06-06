@@ -14,7 +14,7 @@
 
 ## Projects
 
-Here are some of the projects I've worked on:
+Feel free to explore [these projects](https://github.com/cazanelena?tab=repositories) and provide any feedback or suggestions. I'm always open to improving my skills and learning from others.
 
 <!-- Project Name: Brief description of the project.
 GitHub Repo: [Link to the GitHub repository]
@@ -24,8 +24,6 @@ Project Name: Brief description of the project.
 GitHub Repo: [Link to the GitHub repository]
 Live Demo: [If applicable, provide a link to the live demo] -->
 
-
-Feel free to explore these projects and provide any feedback or suggestions. I'm always open to improving my skills and learning from others.
 
 ## Upcoming Events
 ⏭️  On July 1st, I will be joining the Athena Hackathon. More info [here](https://www.showcode.io/athena)
