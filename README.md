@@ -25,6 +25,13 @@ Project Name: Brief description of the project.
 GitHub Repo: [Link to the GitHub repository]
 Live Demo: [If applicable, provide a link to the live demo] -->
 
+### 📊 Github Stats and Activity
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cazanelena)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cazanelena)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Upcoming Events
 ⏭️  On July 1st, I will be joining the Athena Hackathon. More info [here](https://www.showcode.io/athena)
