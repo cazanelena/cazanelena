@@ -56,7 +56,7 @@ In my free time, I enjoy reading and expanding my knowledge. Here's a list of bo
 
 ### Contact Me
 
-✉️ [Email(cazan.elena23@yahoo.com)  
+✉️ [Email](cazan.elena23@yahoo.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/elena-cazan-bba317131/)   
 🌐 [Website](https://cazanelena.github.io/Website-Project/)  
 
