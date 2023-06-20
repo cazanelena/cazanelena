@@ -25,6 +25,8 @@ Project Name: Brief description of the project.
 GitHub Repo: [Link to the GitHub repository]
 Live Demo: [If applicable, provide a link to the live demo] -->
 
+
+
 ### 📊 Github Stats and Activity
 
 ## 🔥 Streak Stats
@@ -32,15 +34,18 @@ Live Demo: [If applicable, provide a link to the live demo] -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cazanelena)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ### Upcoming Events
 ⏭️  On July 1st, I will be joining the Athena Hackathon. More info [here](https://www.showcode.io/athena)
 
 ## Courses and Certifications
-👩🏻‍🎓 Harvard CS50x introduction to computer science   
-👩🏻‍💻 Harvard CS50's Introduction to Programming with Python   
-📚 freeCodeCamp - Responsive Web Design            
-📖 freeCodeCamp - JavaScript Algorithms and Data Structures     
+<div align="center">
+  <img src="https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e470j1ubwi6q1z20v9pi3nnuucaercsl641vyezp8wx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="300"/>
+</div>
+
+👩🏻‍🎓 Harvard CS50x introduction to computer science     
+👩🏻‍💻 Harvard CS50's Introduction to Programming with Python       
+📚 freeCodeCamp - Responsive Web Design               
+📖 freeCodeCamp - JavaScript Algorithms and Data Structures      
 
 ### Read
 In my free time, I enjoy reading and expanding my knowledge. Here's a list of books I have read that are related to web development:
