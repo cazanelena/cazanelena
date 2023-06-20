@@ -47,14 +47,16 @@ In my free time, I enjoy reading and expanding my knowledge. Here's a list of bo
 1. The Clean Coder: A Code of Conduct for Professional Programmers - Robert C. Martin Series
 2. JavaScript the Definitive Guide by David Flanagan
 3. The Pragmatic Programmer by David Thomas
+4. Computer Science: An Overview by by Glenn Brookshear, Dennis Brylow
 
 ### Currently reading
-1. Hacking the art of exploitation by Jon Erickson
-2. Computer Science: An Overview by by Glenn Brookshear, Dennis Brylow
+1.Once upon an algorithm how stories explain computing by Martin Erwig
+2. Hacking the art of exploitation by Jon Erickson
+3. 
 
 ### Contact Me
 
-✉️ Email: cazan.elena23@yahoo.com   
+✉️ [Email(cazan.elena23@yahoo.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/elena-cazan-bba317131/)   
 🌐 [Website](https://cazanelena.github.io/Website-Project/)  
 
@@ -63,18 +65,3 @@ I'm open to collaboration, networking, and discussing exciting opportunities. Do
 ### Acknowledgments
 I would like to express my gratitude to the Founders and Coders bootcamp for providing me with the knowledge and support to pursue my coding journey. Additionally, I'm thankful to the GitHub community for their constant inspiration and motivation.
 
-
-<!--
-**cazanelena/cazanelena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
