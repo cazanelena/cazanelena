@@ -30,9 +30,11 @@ Live Demo: [If applicable, provide a link to the live demo] -->
 ### 📊 Github Stats and Activity
 
 ## 🔥 Streak Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cazanelena)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cazanelena)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cazanelena)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Upcoming Events
 ⏭️  On July 1st, I will be joining the Athena Hackathon. More info [here](https://www.showcode.io/athena)
@@ -57,11 +59,11 @@ In my free time, I enjoy reading and expanding my knowledge. Here's a list of bo
 ### Currently reading
 1.Once upon an algorithm how stories explain computing by Martin Erwig
 2. Hacking the art of exploitation by Jon Erickson
-3. 
+
 
 ### Contact Me
 
-✉️ [Email](cazan.elena23@yahoo.com)  
+✉️ [Email](mailto:cazan.elena23@yahoo.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/elena-cazan-bba317131/)   
 🌐 [Website](https://cazanelena.github.io/Website-Project/)  
 
