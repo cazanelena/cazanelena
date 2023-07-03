@@ -5,6 +5,7 @@
 
 ### About Me
 👩‍💻 I'm a passionate coder who started my coding journey one year ago. I've recently joined the Founders and Coders bootcamp, where I've been honing my skills and working on exciting projects. I'm eager to learn and grow as a developer, and I'm excited to share my progress and projects here on GitHub.
+🏆 Hackathon winner of the CodeNode Space & Events theme organised by ShowCode!
 
 ### Skills and Expertise
 
@@ -36,8 +37,8 @@ Live Demo: [If applicable, provide a link to the live demo] -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cazanelena)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Upcoming Events
-⏭️  On July 1st, I will be joining the Athena Hackathon. More info [here](https://www.showcode.io/athena)
+### Events
+⏭️  Participated to Athena Hackathon 1st of July 2023. [Repo](https://github.com/cazanelena/econode)
 
 ## Courses and Certifications
 <div align="center">
