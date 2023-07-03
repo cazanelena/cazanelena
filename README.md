@@ -4,7 +4,7 @@
 <!-- Profile Banner -->
 
 ### About Me
-👩‍💻 I'm a passionate coder who started my coding journey one year ago. I've recently joined the Founders and Coders bootcamp, where I've been honing my skills and working on exciting projects. I'm eager to learn and grow as a developer, and I'm excited to share my progress and projects here on GitHub.
+👩‍💻 I'm a passionate coder who started my coding journey one year ago. I've recently joined the Founders and Coders bootcamp, where I've been honing my skills and working on exciting projects. I'm eager to learn and grow as a developer, and I'm excited to share my progress and projects here on GitHub.  
 🏆 Hackathon winner of the CodeNode Space & Events theme organised by ShowCode!
 
 ### Skills and Expertise
