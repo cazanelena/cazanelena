@@ -70,6 +70,3 @@ In my free time, I enjoy reading and expanding my knowledge. Here's a list of bo
 
 I'm open to collaboration, networking, and discussing exciting opportunities. Don't hesitate to reach out if you have any questions or just want to connect.
 
-### Acknowledgments
-I would like to express my gratitude to the Founders and Coders bootcamp for providing me with the knowledge and support to pursue my coding journey. Additionally, I'm thankful to the GitHub community for their constant inspiration and motivation.
-
