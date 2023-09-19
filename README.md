@@ -38,7 +38,7 @@ Live Demo: [If applicable, provide a link to the live demo] -->
 
 
 ### Events
-**Upcoming**: Data Science Festival Oktoberfest 2023 - 14th of October 2023
+**Upcoming**: Data Science Festival Oktoberfest 2023 - 14th of October 2023  
 ⏭️  Participated to Athena Hackathon 1st of July 2023. [Repo](https://github.com/cazanelena/econode)
 
 ## Courses and Certifications
