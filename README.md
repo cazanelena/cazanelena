@@ -4,13 +4,14 @@
 <!-- Profile Banner -->
 
 ### About Me
-👩‍💻 I'm a passionate coder who started my coding journey one year ago. I've recently joined the Founders and Coders bootcamp, where I've been honing my skills and working on exciting projects. I'm eager to learn and grow as a developer, and I'm excited to share my progress and projects here on GitHub.  
+👩‍💻 I'm a passionate coder who started my coding journey one year ago. I am a software developer working for Limio. I'm eager to learn and grow as a developer, and I'm excited to share my progress and projects here on GitHub.  
 🏆 Hackathon winner of the CodeNode Space & Events theme organised by ShowCode!
 
 ### Skills and Expertise
 
-🚀 Programming languages: JavaScript, Python, CSS and HTML.  
-🔧 Frameworks and libraries: Bootstrap.  
+🚀 Programming languages: TypeScript, JavaScript, Python, CSS and HTML. 
+📊 Databases: DynamoDb, PostgreSQL.
+🔧 Frameworks and libraries: Athena AWS, Glue, Bootstrap.  
 🛠️ Tools and technologies: **Version control** - I have experience using version control systems like **Git**, proficiency in managing repositories, branching, merging code, and collaborating with other developers using tools like **GitHub**.  
 💡 Other skills: Debugging, Continuous learning, Problem-solving, Collaboration and teamwork.  
 
@@ -38,10 +39,11 @@ Live Demo: [If applicable, provide a link to the live demo] -->
 
 
 ### Events
-**Upcoming**: Data Science Festival Oktoberfest 2023 - 14th of October 2023  
+**Atdended**: Data Science Festival Oktoberfest 2023 - 14th of October 2023  
 ⏭️  Participated to Athena Hackathon 1st of July 2023. [Repo](https://github.com/cazanelena/econode)
 
 ## Courses and Certifications
+- **AWS Associate Developer certification**
 <div align="center">
   <img src="https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e470j1ubwi6q1z20v9pi3nnuucaercsl641vyezp8wx&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="300"/>
 </div>
